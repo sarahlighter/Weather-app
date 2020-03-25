@@ -10,5 +10,6 @@ target 'Weather365' do
   pod 'Alamofire'
   pod 'SwiftSpinner'
   pod 'PromiseKit'
+  pod 'RealmSwift'
 
 end
